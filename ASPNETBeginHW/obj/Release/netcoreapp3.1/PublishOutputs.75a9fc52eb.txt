@@ -1,0 +1,12 @@
+C:\Users\Denis\Desktop\WebAPI HomeWork\ASPNETBeginHW\ASPNETBeginHW\obj\Release\netcoreapp3.1\PubTmp\Out\uploads\1.jpg
+C:\Users\Denis\Desktop\WebAPI HomeWork\ASPNETBeginHW\ASPNETBeginHW\obj\Release\netcoreapp3.1\PubTmp\Out\uploads\2.jpg
+C:\Users\Denis\Desktop\WebAPI HomeWork\ASPNETBeginHW\ASPNETBeginHW\obj\Release\netcoreapp3.1\PubTmp\Out\uploads\3.jpg
+C:\Users\Denis\Desktop\WebAPI HomeWork\ASPNETBeginHW\ASPNETBeginHW\obj\Release\netcoreapp3.1\PubTmp\Out\ASPNETBeginHW.exe
+C:\Users\Denis\Desktop\WebAPI HomeWork\ASPNETBeginHW\ASPNETBeginHW\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\Denis\Desktop\WebAPI HomeWork\ASPNETBeginHW\ASPNETBeginHW\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\Denis\Desktop\WebAPI HomeWork\ASPNETBeginHW\ASPNETBeginHW\obj\Release\netcoreapp3.1\PubTmp\Out\ASPNETBeginHW.dll
+C:\Users\Denis\Desktop\WebAPI HomeWork\ASPNETBeginHW\ASPNETBeginHW\obj\Release\netcoreapp3.1\PubTmp\Out\ASPNETBeginHW.deps.json
+C:\Users\Denis\Desktop\WebAPI HomeWork\ASPNETBeginHW\ASPNETBeginHW\obj\Release\netcoreapp3.1\PubTmp\Out\ASPNETBeginHW.runtimeconfig.json
+C:\Users\Denis\Desktop\WebAPI HomeWork\ASPNETBeginHW\ASPNETBeginHW\obj\Release\netcoreapp3.1\PubTmp\Out\ASPNETBeginHW.pdb
+C:\Users\Denis\Desktop\WebAPI HomeWork\ASPNETBeginHW\ASPNETBeginHW\obj\Release\netcoreapp3.1\PubTmp\Out\ASPNETBeginLib.dll
+C:\Users\Denis\Desktop\WebAPI HomeWork\ASPNETBeginHW\ASPNETBeginHW\obj\Release\netcoreapp3.1\PubTmp\Out\ASPNETBeginLib.pdb

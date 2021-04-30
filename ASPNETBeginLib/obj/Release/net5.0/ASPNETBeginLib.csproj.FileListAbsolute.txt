@@ -1,0 +1,12 @@
+C:\Users\Denis\Desktop\WebAPI HomeWork\ASPNETBeginHW\ASPNETBeginLib\bin\Release\net5.0\ASPNETBeginLib.deps.json
+C:\Users\Denis\Desktop\WebAPI HomeWork\ASPNETBeginHW\ASPNETBeginLib\bin\Release\net5.0\ASPNETBeginLib.dll
+C:\Users\Denis\Desktop\WebAPI HomeWork\ASPNETBeginHW\ASPNETBeginLib\bin\Release\net5.0\ref\ASPNETBeginLib.dll
+C:\Users\Denis\Desktop\WebAPI HomeWork\ASPNETBeginHW\ASPNETBeginLib\bin\Release\net5.0\ASPNETBeginLib.pdb
+C:\Users\Denis\Desktop\WebAPI HomeWork\ASPNETBeginHW\ASPNETBeginLib\obj\Release\net5.0\ASPNETBeginLib.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\WebAPI HomeWork\ASPNETBeginHW\ASPNETBeginLib\obj\Release\net5.0\ASPNETBeginLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\WebAPI HomeWork\ASPNETBeginHW\ASPNETBeginLib\obj\Release\net5.0\ASPNETBeginLib.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\WebAPI HomeWork\ASPNETBeginHW\ASPNETBeginLib\obj\Release\net5.0\ASPNETBeginLib.AssemblyInfo.cs
+C:\Users\Denis\Desktop\WebAPI HomeWork\ASPNETBeginHW\ASPNETBeginLib\obj\Release\net5.0\ASPNETBeginLib.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\WebAPI HomeWork\ASPNETBeginHW\ASPNETBeginLib\obj\Release\net5.0\ASPNETBeginLib.dll
+C:\Users\Denis\Desktop\WebAPI HomeWork\ASPNETBeginHW\ASPNETBeginLib\obj\Release\net5.0\ref\ASPNETBeginLib.dll
+C:\Users\Denis\Desktop\WebAPI HomeWork\ASPNETBeginHW\ASPNETBeginLib\obj\Release\net5.0\ASPNETBeginLib.pdb

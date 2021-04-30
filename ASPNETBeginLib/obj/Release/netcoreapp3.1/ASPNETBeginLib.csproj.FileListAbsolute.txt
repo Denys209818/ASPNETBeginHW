@@ -1,0 +1,9 @@
+C:\Users\Denis\Desktop\WebAPI HomeWork\ASPNETBeginHW\ASPNETBeginLib\bin\Release\netcoreapp3.1\ASPNETBeginLib.deps.json
+C:\Users\Denis\Desktop\WebAPI HomeWork\ASPNETBeginHW\ASPNETBeginLib\bin\Release\netcoreapp3.1\ASPNETBeginLib.dll
+C:\Users\Denis\Desktop\WebAPI HomeWork\ASPNETBeginHW\ASPNETBeginLib\bin\Release\netcoreapp3.1\ASPNETBeginLib.pdb
+C:\Users\Denis\Desktop\WebAPI HomeWork\ASPNETBeginHW\ASPNETBeginLib\obj\Release\netcoreapp3.1\ASPNETBeginLib.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\WebAPI HomeWork\ASPNETBeginHW\ASPNETBeginLib\obj\Release\netcoreapp3.1\ASPNETBeginLib.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\WebAPI HomeWork\ASPNETBeginHW\ASPNETBeginLib\obj\Release\netcoreapp3.1\ASPNETBeginLib.AssemblyInfo.cs
+C:\Users\Denis\Desktop\WebAPI HomeWork\ASPNETBeginHW\ASPNETBeginLib\obj\Release\netcoreapp3.1\ASPNETBeginLib.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\WebAPI HomeWork\ASPNETBeginHW\ASPNETBeginLib\obj\Release\netcoreapp3.1\ASPNETBeginLib.dll
+C:\Users\Denis\Desktop\WebAPI HomeWork\ASPNETBeginHW\ASPNETBeginLib\obj\Release\netcoreapp3.1\ASPNETBeginLib.pdb
